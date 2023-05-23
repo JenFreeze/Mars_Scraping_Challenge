@@ -20,7 +20,7 @@ In this challenge, we used Splinter, HTML, and Beautiful Soup to scrape various 
     - Atmospheric pressure
 - Based on our analysis, we came to the following conclusions:
     - There are 12 months on Mars.
-    - We had 1867 Martian days worth of data in the datase33t.
+    - We had 1867 Martian days worth of data in the dataset.
     - The third month tends to be the coldest on Mars, and the eighth month tends to be the warmest.
     - The sixth month has the lowest atmospheric pressure, and the ninth month has the highest.
     - A year on Mars appears to be approximately 675 Earth days.
